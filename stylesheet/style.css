@@ -543,6 +543,11 @@ footer{
   .explore-li-links{
     display: inline-block;
   }
+  
+  
+  .explore-content{
+    display: contents;
+  }
 
 }
 
